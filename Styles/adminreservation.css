@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../Ressources/background.jpg);
+}
+
+#Identification{
+    background-color: #2B3A49;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    
+    color: white;
+}
+
+
+.ReservationUtilisateur{
+    background-color: #1B9592;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px;
+
+    padding: 10px;
+}

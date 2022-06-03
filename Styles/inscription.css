@@ -1,0 +1,135 @@
+body { 
+    background-color: rgba(28, 26, 26, 0.700);
+}
+
+#m-form {
+    width: 35%;
+    margin: auto;
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 35px;
+    border-radius: 15px;
+}
+
+.form input {   
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(166 154 154 / 17%);
+    font-family: 'TT Norms Pro', sans-serif;
+}
+
+#title {
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+.champ {
+    width: 99%;
+    padding-left: 5px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#info {
+    background-color: #1B9592;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 1px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+#info p {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color: #fff;
+    font-family: 'TT Norms Pro', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+#button {
+    background-color: #2B3A49;
+    border: none;
+    border-radius: 25px;
+    height: 40px;
+    width: 165px;
+    cursor: pointer;
+    margin-top: 25px;
+    color: #fff;
+    font-family: 'TT Norms Pro', sans-serif;
+}
+
+#button:hover {
+    background-color: #1B9592;
+    transition: all .5s;
+}
+
+#account {
+    font-size: 12px;
+    position: relative;
+    top: 5px;
+    color: #171C8F;
+    font-family: 'TT Norms Pro', sans-serif;
+}
+
+hr {
+    color: rgb(166 154 154 / 17%);
+    width: 100%;
+    margin-top: 15px;
+}
+
+#a-title {
+    color: rgb(212 211 211);
+    font-size: 17px;
+    margin-top: 10px;
+    font-family: 'TT Norms Pro', sans-serif;
+}
+
+#form-connect {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#seepass {
+    width: 50px;
+    height: 38px;
+    border-radius: 5px;
+    background-color: #2B3A49;
+    float: right;
+    position: fixed;
+    right: 496px;
+    top: 488px;
+}
+
+#i1 {
+    position: absolute;
+    top: 500px;
+    left: 1005px;
+    color: white;
+}
+
+#i2 {
+        position: absolute;
+        top: 323px;
+        left: 1005px;
+        color: white;
+}
+
+#c-seepass {
+    width: 50px;
+    height: 38px;
+    border-radius: 5px;
+    background-color: #2B3A49;
+    float: right;
+    position: fixed;
+    right: 496px;
+    top: 311px;
+}
